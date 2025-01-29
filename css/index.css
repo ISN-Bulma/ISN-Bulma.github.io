@@ -300,19 +300,14 @@ header {
     flex-direction: column;
     flex-wrap: wrap;
     list-style: none;
-    position: relative;
     box-shadow: 0px 16px 10px -7px #09003f8c;
     margin-bottom: 8%;
-    z-index: -1;
 }
 .Pdp-Container{
     display: flex;
-    z-index: -1;
-    position: sticky;
 
 }
 .Product-Image Img{
-    position: relative;
     width: 600px;
     cursor: zoom-in;
     
